@@ -17,11 +17,11 @@ This is a simple and visually appealing blog about India's GDP, built using HTML
 ## Installation & Usage
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/india-gdp-blog.git
+   git clone https://github.com/Nithinsuresh18/GDP-blog.git
    ```
 2. **Navigate to the Project Folder**:
    ```sh
-   cd india-gdp-blog
+   cd GDP BLOG
    ```
 3. **Open the Index File**:
    - Simply open `blog.html` in any modern web browser.
